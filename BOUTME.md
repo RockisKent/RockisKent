@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Kent Rock
+- 🌱 I’m currently learning C, Python
+- I’m not looking to collaborate unless its for a school project
